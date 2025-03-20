@@ -1,0 +1,15 @@
+{
+  "name": "backendtutorial",
+  "version": "1.0.0",
+  "description": "An_experimental_project_for_learning_and-practicing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "backendtutorial"
+  },
+  "author": "Noname2025-coder",
+  "license": "ISC"
+}
