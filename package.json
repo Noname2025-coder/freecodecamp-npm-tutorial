@@ -1,5 +1,6 @@
 {
   "name": "backendtutorial",
+  "author": "Noname2025-coder",
   "version": "1.0.0",
   "description": "An_experimental_project_for_learning_and-practicing",
   "main": "index.js",
@@ -10,6 +11,5 @@
     "type": "git",
     "url": "backendtutorial"
   },
-  "author": "Noname2025-coder",
   "license": "ISC"
 }
